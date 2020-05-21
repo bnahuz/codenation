@@ -54,8 +54,3 @@ class Seller(Employee):
 
     def calc_bonus(self):
         return self.get_sales() * 0.15
-
-breno = Manager(123,'Breno', 500)
-
-print(breno.salary)
-print(breno.calc_bonus())
