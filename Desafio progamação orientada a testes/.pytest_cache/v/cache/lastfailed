@@ -1,0 +1,5 @@
+{
+  "test_main.py::test_lat_or_lng_invalid": true,
+  "test_main.py::test_string_inputs": true,
+  "test_main.py::test_zero_lat_and_lng": true
+}
