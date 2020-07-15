@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3441f79317511a53e1f096c90a08d2e18151b13a6f848a51995567e391177ca1"
+            "sha256": "33ff00a117b867af96ce689366986c93db7c718d4bf015bf9696d0a2aa93304b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -40,21 +40,13 @@
             "index": "pypi",
             "version": "==2018.4.16"
         },
-        "colorama": {
-            "hashes": [
-                "sha256:7d73d2a99753107a36ac6b455ee49046802e59d9d076ef8e47b61499fa29afff",
-                "sha256:e96da0d330793e2cb9485e9ddfd918d456036c7149416295932478192f4436a1"
-            ],
-            "markers": "sys_platform == 'win32'",
-            "version": "==0.4.3"
-        },
         "django": {
             "hashes": [
-                "sha256:16a5d54411599780ac9dfe3b9b38f90f785c51259a584e0b24b6f14a7f69aae8",
-                "sha256:9a2f98211ab474c710fcdad29c82f30fc14ce9917c7a70c3682162a624de4035"
+                "sha256:84f370f6acedbe1f3c41e1a02de44ac206efda3355e427139ecb785b5f596d80",
+                "sha256:e8fe3c2b2212dce6126becab7a693157f1a441a07b62ec994c046c76af5bb66d"
             ],
             "index": "pypi",
-            "version": "==2.2.4"
+            "version": "==2.2.13"
         },
         "djangorestframework": {
             "hashes": [
