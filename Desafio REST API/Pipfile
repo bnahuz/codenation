@@ -15,7 +15,7 @@ py = "==1.5.3"
 pytest = "==3.6.2"
 six = "==1.11.0"
 djangorestframework = "==3.10.2"
-Django = "==2.2.4"
+Django = "==2.2.22"
 
 [requires]
 python_version = "3.7"
